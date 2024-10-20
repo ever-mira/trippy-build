@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Puzzle Social"
   text: "Documentation"
-  tagline: Social Network for new Realities
+  tagline: Social Network for new Realities.
   actions:
     - theme: brand
       text: About the Project
