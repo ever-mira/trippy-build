@@ -7,7 +7,7 @@ outline: deep
 This page explains how to set up the development environment.
 
 ## Prerequisites
-A new version of Node:
+Install a new version of Node:
 
 https://nodejs.org/
 

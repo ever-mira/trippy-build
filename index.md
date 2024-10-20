@@ -12,7 +12,7 @@ hero:
       link: /about
     - theme: alt
       text: Development
-      link: /development
+      link: /overview
 
 features:
   - title: Built by the community
