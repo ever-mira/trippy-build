@@ -23,9 +23,29 @@ export default defineConfig({
         text: 'Development',
         items: [
           { text: 'Overview', link: '/overview' },
-          { text: 'Getting Started', link: '/getting-started' }
+          { text: 'Getting Started', link: '/getting-started' },
+          { text: 'Technology', link: '/technology' },
+          { text: 'Code', link: '/code' },
         ]
-      }
+      },
+      {
+        text: 'Deployment',
+        items: [
+          { text: 'Overview', link: '/deployment' },
+        ]
+      },
+      {
+        text: 'Documentation',
+        items: [
+          { text: 'Overview', link: '/documentation' },
+        ]
+      },
+      {
+        text: 'Vision',
+        items: [
+          { text: 'Overview', link: '/vision' },
+        ]
+      },
     ],
 
     socialLinks: [

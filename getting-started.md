@@ -91,3 +91,7 @@ Click the link that is displayed to you, to open the app in your browser:
 You should now see Puzzle Social running locally on your machine.
 
 Changes you make to the code, are instantly reflected in the browser.
+
+## Next
+
+To learn about the technologies, and how the code is structured, read the next chapter.
