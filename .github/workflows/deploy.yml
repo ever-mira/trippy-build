@@ -28,7 +28,7 @@ jobs:
         run: pnpm run build
 
       - name: Add CNAME for custom domain
-        run: echo 'puzzle.codes' > ./docs/.vitepress/dist/CNAME
+        run: echo 'puzzle.codes' > ./.vitepress/dist/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
