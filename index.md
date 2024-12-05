@@ -13,7 +13,7 @@ hero:
     - theme: alt
       text: Development
       link: /overview
-  image: assets/puzzles.png
+  image: /puzzles.png
 
 features:
   - title: Built by the community

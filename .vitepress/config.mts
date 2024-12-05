@@ -41,7 +41,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/Ra13um42/puzzle-social" },
+      { icon: "github", link: "https://github.com/ever-mira/puzzle-social" },
     ],
 
     logo: "/puzzles.png",
