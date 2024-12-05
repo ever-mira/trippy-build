@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Puzzle Social"
+  name: "Puzzle Social -"
   text: "Documentation"
   tagline: Social Network for new Realities.
   actions:
@@ -13,6 +13,7 @@ hero:
     - theme: alt
       text: Development
       link: /overview
+  image: assets/puzzles.png
 
 features:
   - title: Built by the community
@@ -22,4 +23,3 @@ features:
   - title: Using new Technology
     details: New technologies and modern build tools
 ---
-

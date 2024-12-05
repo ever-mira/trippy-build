@@ -8,7 +8,7 @@ https://puzzle.social
 
 Puzzle Social is an Open Source project on GitHub.
 
-https://github.com/Ra13um42/puzzle-social/
+https://github.com/ever-mira/puzzle-social/
 <br>
 <br>
 
@@ -16,7 +16,7 @@ https://github.com/Ra13um42/puzzle-social/
 
 To contribute translations, you can directly alter the language files on GitHub:
 
-https://github.com/Ra13um42/puzzle-social/tree/main/src/languages
+https://github.com/ever-mira/puzzle-social/tree/master/i18n/locales
 <br>
 <br>
 
