@@ -31,6 +31,10 @@ export default defineConfig({
         items: [{ text: "Overview", link: "/deployment" }],
       },
       {
+        text: "Scaling",
+        items: [{ text: "Overview", link: "/scaling" }],
+      },
+      {
         text: "Documentation",
         items: [{ text: "Overview", link: "/documentation" }],
       },

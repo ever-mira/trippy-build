@@ -8,4 +8,4 @@ When you check out the code, and make some changes (for example implementing a n
 
 ## Next
 
-Read the next chapter, to learn about this documentaion.
+Read the next chapter, to learn about scaling.
