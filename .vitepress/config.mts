@@ -32,7 +32,18 @@ export default defineConfig({
       },
       {
         text: "Scaling",
-        items: [{ text: "Overview", link: "/scaling" }],
+        items: [
+          { text: "Overview", link: "/scaling" },
+          { text: "Chat", link: "/chat" },
+        ],
+      },
+      {
+        text: "AI",
+        items: [{ text: "Overview", link: "/ai" }],
+      },
+      {
+        text: "Independence",
+        items: [{ text: "Overview", link: "/independence" }],
       },
       {
         text: "Documentation",
