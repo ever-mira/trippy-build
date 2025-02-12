@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Puzzle Social",
+  title: "Trippy Build",
   description: "Documentation",
   base: "/",
   themeConfig: {

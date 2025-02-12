@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Puzzle Social -"
-  text: "Documentation"
-  tagline: Social Network for new Realities.
+  name: "Trippy Social"
+  text: "Contribution Guide"
+  tagline: Social Network for Psychonauts
   actions:
     - theme: brand
       text: About the Project

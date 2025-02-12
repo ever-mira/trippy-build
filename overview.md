@@ -18,10 +18,9 @@ You can start by implementing a new feature, or fixing a bug, and then create a 
 
 Feel free to join our group on Telegram:
 
-https://t.me/puzzle_social_dev
+https://t.me/trippy_build
 
-
-Or directly contact Mira Maus:
+You can also directly contact Mira Maus:
 
 https://t.me/mira_maus
 

@@ -1,14 +1,15 @@
 # About
 
-Puzzle Social is a Social Network developed by the community.
+Trippy Social is a Social Network for Psychonauts.
 
-https://puzzle.social
+https://trippy.social
 
 ## Open Source
 
-Puzzle Social is an Open Source project on GitHub.
+Trippy Social is an Open Source project on GitHub.
 
-https://github.com/ever-mira/puzzle-social/
+https://github.com/ever-mira/trippy-singles/
+
 <br>
 <br>
 

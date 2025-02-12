@@ -24,7 +24,7 @@ https://git-scm.com/
 
 Go to the Repository on GitHub:
 
-https://github.com/ever-mira/puzzle-social
+https://github.com/ever-mira/trippy-singles
 
 ### Clone
 
@@ -37,7 +37,7 @@ Go to a folder on your computer, where you want the code to be stored.
 Open the console, and type "git clone", and append the url:
 
 ```bash
-$ git clone https://github.com/ever-mira/puzzle-social.git
+$ git clone https://github.com/ever-mira/trippy-singles.git
 ```
 
 <br>
