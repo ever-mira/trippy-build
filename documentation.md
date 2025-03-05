@@ -8,7 +8,7 @@ Therefore, everybody is able to contribute to the documentation and to the visio
 
 The files for this documentation are located in the following GitHub repository:
 
-https://github.com/ever-mira/puzzle-social-docs
+https://github.com/ever-mira/trippy-build
 
 Changes to the files are automatically deployed to this site - the documentation you are currently reading.
 

@@ -20,7 +20,7 @@ Feel free to join our group on Telegram:
 
 https://t.me/trippy_build
 
-You can also directly contact Mira Maus:
+Or directly contact Mira Maus:
 
 https://t.me/mira_maus
 

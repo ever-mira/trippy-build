@@ -1,6 +1,6 @@
 # Deployment
 
-For the project automatic deployment is activated. This means, when the main branch of the repository is updated - by merging some code - the new code is automaticly deployed to the server at https://puzzle.social. So new features are available instantly.
+For the project automatic deployment is activated. This means, when the main branch of the repository is updated - by merging some code - the new code is automaticly deployed to the server at https://trippy.social. So new features are available instantly.
 
 # Pull Request
 

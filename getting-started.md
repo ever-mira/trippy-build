@@ -24,7 +24,7 @@ https://git-scm.com/
 
 Go to the Repository on GitHub:
 
-https://github.com/ever-mira/trippy-singles
+https://github.com/ever-mira/trippy-social
 
 ### Clone
 
@@ -37,7 +37,7 @@ Go to a folder on your computer, where you want the code to be stored.
 Open the console, and type "git clone", and append the url:
 
 ```bash
-$ git clone https://github.com/ever-mira/trippy-singles.git
+$ git clone https://github.com/ever-mira/trippy-social.git
 ```
 
 <br>
@@ -74,9 +74,17 @@ Wait until the build ist finished. Click the link that is displayed to you. It w
 
 ![](/assets/vite.png)
 
-You should now see Puzzle Social running locally on your computer.
+You should now see Trippy Social running locally on your computer.
 
 Changes you make to the code, are instantly reflected in the browser.
+
+### Environment Variables
+
+For the application to be able to make a connection to the database, some environment variables have to be set.
+
+-> see ".env.example" file in the root of the project.
+
+Please ask in the Telegram group, or ask Mira, to get some help :&#8203;)
 
 ## Next
 

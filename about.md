@@ -8,7 +8,7 @@ https://trippy.social
 
 Trippy Social is an Open Source project on GitHub.
 
-https://github.com/ever-mira/trippy-singles/
+https://github.com/ever-mira/trippy-social/
 
 <br>
 <br>
@@ -17,7 +17,7 @@ https://github.com/ever-mira/trippy-singles/
 
 To contribute translations, you can directly alter the language files on GitHub:
 
-https://github.com/ever-mira/puzzle-social/tree/master/i18n/locales
+https://github.com/ever-mira/trippy-social/tree/master/i18n/locales
 <br>
 <br>
 
